@@ -19,7 +19,7 @@ Together, these experiences bridged my background in health and science with the
 
 # Table of Contents
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
-
+## [Mission Ready Projects](https://github.com/mannatkd/Mission-Ready-Tasks)
 <!--
 **mannatkd/mannatkd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
